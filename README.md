@@ -14,3 +14,6 @@ heapq in Python: https://realpython.com/python-heapq-module/
 Python docs list: https://docs.python.org/3/library/functions.html
 Important ones: all, any, divmod, sorted, bin, ord, chr, ascii
 
+# Generators in Python:
+https://www.dabeaz.com/generators/
+
